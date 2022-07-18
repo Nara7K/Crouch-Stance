@@ -25,4 +25,4 @@ bind n automove_mode
 
 Keybind Name Reference: https://developer.valvesoftware.com/wiki/Bind
 
-Unlike toggle_duck, it allows you to move with all non-crouch related movement such as walking, running, and sprinting while having a visual indicator.
+Unlike toggle_duck, crouch stance allows you to alternate from remaining crouched to moving with all non-crouch related movement such as walking, running, and sprinting while having a visual indicator.
