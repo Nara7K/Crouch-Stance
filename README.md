@@ -24,3 +24,5 @@ bind b automove
 bind n automove_mode
 
 Keybind Name Reference: https://developer.valvesoftware.com/wiki/Bind
+
+Unlike toggle_duck, it allows you to move with all non-crouch related movement such as walking, running, and sprinting while having a visual indicator.
