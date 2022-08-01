@@ -15,6 +15,8 @@ Toggle: This simply toggles crouch at all times when possible.
 
 Toggle + Run: This automatically deactivates crouching when you are inputting player movement whenever possible. Reactivates toggle crouch when not inputting movement. (Velocity caused by other factors will not force crouch deactivation.)
 
+Toggle + Sprint Only: This automatically deactivates crouching when you are holding the sprint button (default: Shift key). Reactivates toggle crouch when not holding the sprint button.
+
 # Binding
 
 It is suggested you bind these like in the examples below based on your preferences:
